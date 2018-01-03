@@ -1,0 +1,38 @@
+{
+  "name": "threesixty-slider-angular5",
+  "version": "0.0.1",
+  "description": "360 degrees slider for angular based on jQuery version",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -p src -w",
+    "build": "rm -rf lib && tsc -p src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ram-reddy/threesixty-slider-angular5.git"
+  },
+  "keywords": [
+    "angular",
+    "slider",
+    "360",
+    "angular5",
+    "panorama"
+  ],
+  "author": "ramreddy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ram-reddy/threesixty-slider-angular5/issues"
+  },
+  "homepage": "https://github.com/ram-reddy/threesixty-slider-angular5#readme",
+  "dependencies": {
+    "@angular/common": "^5.1.2",
+    "@angular/compiler": "^5.1.2",
+    "@angular/core": "^5.1.2",
+    "@angular/platform-browser": "^5.1.2",
+    "@angular/platform-browser-dynamic": "^5.1.2",
+    "jquery": "^3.2.1",
+    "rxjs": "^5.5.6",
+    "typescript": "^2.6.2",
+    "zone.js": "^0.8.19"
+  }
+}
