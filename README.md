@@ -1,1 +1,3 @@
 # threesixty-slider-angular5
+
+#yet to be completed... 
